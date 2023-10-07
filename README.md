@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="right">
   <img src="https://static.wikia.nocookie.net/mugen/images/7/77/MPMGengarS2_1.gif/revision/latest/scale-to-width-down/542?cb=20150706014926" alt="animated" />
 </p>
 
